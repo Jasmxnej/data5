@@ -4,7 +4,7 @@
   "id": "IRN",
   "name": "Islamic Republic of Iran",
   "continent": "Asia",
-  "flag_url": "https://codante.s3.amazonaws.com/codante-apis/olympic-games/flags/IRN.png",
+  "flag_url": "https://gstatic.olympics.com/s1/t_original/static/noc/oly/3x2/180x120/IRI.png",
   "total_medals": 12,
   "medals_by_sport": {
     "until_2024": {
